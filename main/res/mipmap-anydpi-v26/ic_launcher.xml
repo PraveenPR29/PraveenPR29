@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/AliceBlue"/>
+    <foreground android:drawable="@drawable/ic_robot_icon_chat_bot_sign_support_service_concept_chatbot_character_flat_style_robot_icon_chat_bot_sign_support_service_138271515"/>
+</adaptive-icon>
